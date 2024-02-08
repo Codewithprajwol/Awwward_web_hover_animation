@@ -123,8 +123,6 @@ html , body{
     background-position: center;
 }
 .image-one{
-    height: 20vh;
-    width:20vw;
     background-color: red;
     bottom:54%;
     right:50%;
@@ -136,4 +134,43 @@ html , body{
 }
 #five{
     background-image:url(https://images.unsplash.com/photo-1682685797742-42c9987a2c34?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw0MXx8fGVufDB8fHx8fA%3D%3D)
+}
+.image-two{
+    top:53%;
+    left:53%;
+    background-color:pink;
+    transition:all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+    opacity: 0;
+}
+#two{
+    background-image:url(https://images.unsplash.com/photo-1707187478206-f68e2b7f672f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMHx8fGVufDB8fHx8fA%3D%3D);
+}
+#six{
+    background-image: url(https://images.unsplash.com/photo-1707080181888-25efd661305e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMzN8fHxlbnwwfHx8fHw%3D);
+}
+.image-three{
+    top: 56%;
+    left:29%;
+    background-color:blue;
+    transition:all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+    
+}
+#three{
+    background-image:url(https://images.unsplash.com/photo-1707159432991-ac67eace0014?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMzV8fHxlbnwwfHx8fHw%3D);
+}
+#seven{
+    background-image: url(https://images.unsplash.com/photo-1682687982185-531d09ec56fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMjF8fHxlbnwwfHx8fHw%3D);
+}
+.image-four{
+    top:26%;
+    left:55%;
+    background-color:pink;
+    transition:all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+    opacity:0;
+}
+#four{
+    background-image: url(https://images.unsplash.com/photo-1705931607938-fa3b30611e15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDR8fHxlbnwwfHx8fHw%3D);
+}
+#eight{
+    background-image:url(https://images.unsplash.com/photo-1706859450156-0214dca4260d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOHx8fGVufDB8fHx8fA%3D%3D);
 }
